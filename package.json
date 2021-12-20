@@ -19,5 +19,8 @@
   "homepage": "https://github.com/iamdevmarcos/test-git#readme",
   "dependencies": {
     "express": "^4.17.2"
+  },
+  "devDependencies": {
+    "git-commit-msg-linter": "^3.2.8"
   }
 }
