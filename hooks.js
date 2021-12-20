@@ -1,1 +1,0 @@
-const useHook = () => console.log('Using the hook...');
